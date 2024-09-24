@@ -1,6 +1,6 @@
 # maven-settings-action
-[![Test](https://github.com/s4u/maven-settings-action/workflows/Test/badge.svg)](https://github.com/s4u/maven-settings-action/actions?query=workflow%3ATest)
-[![Audit](https://github.com/s4u/maven-settings-action/workflows/Audit/badge.svg)](https://github.com/s4u/maven-settings-action/actions?query=workflow%3AAudit)
+[![Test](https://github.com/emergentdotorg/maven-settings-action/workflows/Test/badge.svg)](https://github.com/emergentdotorg/maven-settings-action/actions?query=workflow%3ATest)
+[![Audit](https://github.com/emergentdotorg/maven-settings-action/workflows/Audit/badge.svg)](https://github.com/emergentdotorg/maven-settings-action/actions?query=workflow%3AAudit)
 
 
 This action sets up Maven environments for use in GitHub Actions by:
